@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bulbasaur",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "type": "Grass"
+  },
+  {
+    "name": "Charmander",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "type": "Fire"
+  },
+  {
+    "name": "Squirtle",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "type": "Water"
+  },
+  {
+    "name": "Kakuna",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "type": "Bug"
+  },
+  {
+    "name": "Pidgey",
+    "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "type": "Normal"
+  }
+]
